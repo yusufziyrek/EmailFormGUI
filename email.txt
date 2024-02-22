@@ -1,31 +1,5 @@
-To: ppehlivanoglu@biruni.edu.tr
-Subject: Final Project
+To: example@gmail.com
+Subject: Java Core
 Message: 
-Baştan sona kendi eserim hocam. Bu kadar oldu.
-Umarım beğenirsiniz...
------------------------- 
-To: 
-Subject: 
-Message: 
-
------------------------- 
-To: 
-Subject: 
-Message: 
-
------------------------- 
-To: 
-Subject: 
-Message: 
-
------------------------- 
-To: 
-Subject: 
-Message: 
-
------------------------- 
-To: 
-Subject: 
-Message: 
-
+A simple email application that writes to a file.
 ------------------------ 
